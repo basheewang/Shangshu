@@ -1,0 +1,14 @@
+main_backup/
+.auctex-auto/
+main/.auctex-auto/
+*.log
+*.pdf
+*.ilg
+*.ind
+*.out
+Chinese_Character_Unicode_Range
+*.synctex
+*.aux
+*.toc
+*.gz
+*.idx
